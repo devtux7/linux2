@@ -11,7 +11,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # Repo bilgileri (Kullanıcı tarafından güncellenmelidir)
 # Eğer script curl ile çalıştırılıyorsa bu repo adresinden modüller indirilecek
 GITHUB_USER="devtux7"  # Kullanıcı adı
-GITHUB_REPO="linux"    # Repo adı
+GITHUB_REPO="linux2"    # Repo adı
 GITHUB_BRANCH="main"
 BASE_URL="https://raw.githubusercontent.com/$GITHUB_USER/$GITHUB_REPO/$GITHUB_BRANCH/modules"
 
